@@ -1,3 +1,3 @@
-# Source of Web page of Martin Otter
+# Web page of Martin Otter
 
-Web page is here: [MartinOtter.github.io](MartinOtter.github.io)
+Web page is rendered here: [https://martinotter.github.io/](https://martinotter.github.io/)
